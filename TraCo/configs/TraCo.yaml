@@ -1,0 +1,16 @@
+training:
+    batch_size: 200
+    learning_rate: 0.002
+    epochs: 200
+
+model:
+    en1_units: 300
+    dropout: 0.
+    embedding_dim: 200
+
+    bias_topk: 20
+    bias_p: 5.0
+    beta_temp: 0.1
+    weight_loss_TPD: 20.0
+    OT_max_iter: 1000
+    sinkhorn_alpha: 20
