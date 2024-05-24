@@ -5,7 +5,7 @@ model=${1}
 dataset=${2}
 K=${3:-50}
 index=${4:-1}
-eva_type=${5}
+
 
 T=15
 

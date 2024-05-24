@@ -28,6 +28,9 @@ Change to directory `./TraCo`, and run command as
     ./scripts/run.sh TraCo NYT 10-50-200
 
 
+Other datasets are available in [TopMost](https://github.com/BobXWu/TopMost/tree/main/data).
+
+
 ## Citation
 
 If you want to use our code, please cite as
